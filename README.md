@@ -1,1 +1,1 @@
-This is my first Git project
+This is my first Git project, making changes on my-new-branch
